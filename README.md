@@ -1,0 +1,2 @@
+# node-meets-cloud
+automation
